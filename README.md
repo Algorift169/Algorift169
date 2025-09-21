@@ -35,30 +35,11 @@ CSS
 **Tools & Platforms:**  
 VS Code, Git, GitHub, Notion, Figma, Netlify  
 
+-----
+
 **Design & Creativity:**  
 Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro  
 
----
-
-📊 **GitHub Stats:**  
-
-![Israfil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smisrafil&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smisrafil&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-🏆 **Achievements & Trophies:**  
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=smisrafil&theme=tokyonight&margin-w=10)  
-
----
-
-✨ **Pinned Projects:**  
-
-- **OOP Lab Solutions** – Solved lab exercises and projects  
-- **Personal Portfolio** – Showcase of my projects and experiments  
-- **Competitive Coding** – My problem-solving journey  
-
----
+----
 
 🚀 *“Code. Build. Learn. Repeat.”*
