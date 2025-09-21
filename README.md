@@ -19,12 +19,12 @@ gmail: smisrafil158@gmail.com
 💻 **Tech Stack & Tools:**  
 
 **Languages & Frameworks:**  
-C        <img src="https://github.com/user-attachments/assets/ed658d0a-233e-4c15-9207-44d854d562b8" width="50" height="50" />  
-C++      <img src="https://github.com/user-attachments/assets/bdad40c0-b9a0-4cd6-a55b-fc85a5ddefd0" width="50" height="50" />  
-Python   <img src="https://github.com/user-attachments/assets/7e1097b6-9eba-451d-94d8-26be2cf85010" width="50" height="50" />  
-Java     <img src="https://github.com/user-attachments/assets/b6d0368d-03e4-4790-bf1c-c307d7045eb8" width="50" height="50" />  
-HTML     <img src="https://github.com/user-attachments/assets/012d7483-3ef9-481f-9dae-ee38cc81d37d" width="50" height="50" />  
-CSS      <img src="https://github.com/user-attachments/assets/149193e2-cbf4-46b2-9781-6e5d23f4f28c" width="50" height="50" />
+C        <img src="https://github.com/user-attachments/assets/ed658d0a-233e-4c15-9207-44d854d562b8" width="10" height="10" />  
+C++      <img src="https://github.com/user-attachments/assets/bdad40c0-b9a0-4cd6-a55b-fc85a5ddefd0" width="10" height="10" />  
+Python   <img src="https://github.com/user-attachments/assets/7e1097b6-9eba-451d-94d8-26be2cf85010" width="10" height="10" />  
+Java     <img src="https://github.com/user-attachments/assets/b6d0368d-03e4-4790-bf1c-c307d7045eb8" width="10" height="10" />  
+HTML     <img src="https://github.com/user-attachments/assets/012d7483-3ef9-481f-9dae-ee38cc81d37d" width="10" height="10" />  
+CSS      <img src="https://github.com/user-attachments/assets/149193e2-cbf4-46b2-9781-6e5d23f4f28c" width="10" height="10" />
 
 **Tools & Platforms:**  
 VS Code, Git, GitHub, Notion, Figma, Netlify  
