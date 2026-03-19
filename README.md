@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israfil</h1>
-<h3 align="center">A passionate developer from Bangladesh, turning ideas into reality through code.</h3>
+<h3 align="center">A passionate developer from Bangladesh, turning ideas into reality through Programming </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Algorift169&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
