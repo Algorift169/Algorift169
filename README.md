@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Israfil</h1>
+<h1 align="center">Hi, I'm Israfil</h1>
 <h3 align="center">A passionate developer from Bangladesh, turning ideas into reality through Programming </h3>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **LIDE – a lightweight Linux desktop environment**  
-- 🌱 I’m diving deep into **C, C++, Python, Java, and modern web development**  
-- 👯 I’m looking to collaborate on **open‑source projects and innovative desktop applications**  
-- 🤔 I’m always exploring **AI, system programming, and UI/UX design**  
-- 💬 Ask me about **C, Linux, GUI development, or turning ideas into code**  
-- ⚡ Fun fact: **I love turning small experiments into full‑fledged projects**
+- I’m currently working on **LIDE – a lightweight Linux desktop environment**  
+- I’m diving deep into **C, C++, Python, Java, and modern web development**  
+- I’m looking to collaborate on **open‑source projects and innovative desktop applications**  
+- I’m always exploring **AI, system programming, and UI/UX design**  
+- Ask me about **C, Linux, GUI development, or turning ideas into code**  
+- Fun fact: **I love turning small experiments into full‑fledged projects**
 
 ---
 
