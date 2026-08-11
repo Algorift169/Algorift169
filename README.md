@@ -148,5 +148,5 @@
 </p>
 
 <p align="center">
-  <sub><i>Designed with 💙 for Algorift169</i></sub>
+  <sub><i> Algorift169</i></sub>
 </p>
