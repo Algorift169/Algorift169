@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Dynamic Recent Activity
+### Recelty working on:
 
 <!-- RECENT_WORK_START -->
 <div align="center">
@@ -97,14 +97,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" />
-</p>
-
----
-
-### 🏆 GitHub Trophies & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Algorift169&theme=radical&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
