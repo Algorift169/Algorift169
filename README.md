@@ -37,7 +37,6 @@
   </table>
 </div>
 
-*(⚡ Automatically updated via GitHub Actions)*
 <!-- RECENT_WORK_END -->
 
 ---
@@ -148,5 +147,5 @@
 </p>
 
 <p align="center">
-  <sub><i> Algorift169</i></sub>
+  <sub><i>Designed with 💙 for Algorift169</i></sub>
 </p>
