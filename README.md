@@ -146,7 +146,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<p align="center">
-  <sub><i>Designed with 💙 for Algorift169</i></sub>
-</p>
