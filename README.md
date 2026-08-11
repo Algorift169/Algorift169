@@ -37,6 +37,7 @@
   </table>
 </div>
 
+*(⚡ Automatically updated via GitHub Actions)*
 <!-- RECENT_WORK_END -->
 
 ---
