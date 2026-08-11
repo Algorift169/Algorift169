@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=230&section=header&text=Hi%20there,%20I'm%20Israfil%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20%26%20Systems%20Developer%20|%20Creator%20of%20Drift%20%26%20LIDE&descAlign=50&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=230&section=header&text=Hi%20there,%20I'm%20Israfil%20👋&fontSize=42&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20%26%20Systems%20Developer%20|%20Creator%20of%20Drift%20%26%20LIDE&descAlign=50&descAlignY=62" width="100%" alt="" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Turning+ideas+into+reality+through+Programming%E2%9C%A8;Creator+of+Drift+(Scripting+Language)+%26+LIDE+Linux+DE;Deep+diving+in+C%2C+C%2B%2B%2C+Python%2C+Java+%26+Modern+Web;Exploring+AI%2C+System+Programming%2C+%26+UI%2FUX+Design" alt="Typing SVG" />
@@ -37,7 +37,6 @@
   </table>
 </div>
 
-*(⚡ Automatically updated via GitHub Actions)*
 <!-- RECENT_WORK_END -->
 
 ---
