@@ -37,7 +37,6 @@
   </table>
 </div>
 
-*(⚡ Automatically updated via GitHub Actions)*
 <!-- RECENT_WORK_END -->
 
 ---
@@ -76,7 +75,7 @@
 #### 🛠️ Languages & Core Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,ts,react,qt,bash,linux&theme=dark" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,qt,bash,linux&theme=dark" alt="Languages & Frameworks" />
   </a>
 </p>
 
