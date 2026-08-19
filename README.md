@@ -22,15 +22,11 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/drift"><b>drift</b></a></p>
-        <p><i>A scripting language to make programming easier.</i></p>
+        <p>Building open-source software and linux utilities.</p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
-          <li><a href="https://github.com/Algorift169/drift"><b>drift</b></a> - A scripting language to make programming easier. (<code>C</code>)</li>
-          <li><a href="https://github.com/Algorift169/bgs-exam"><b>bgs-exam</b></a> - Just a simple webpage for my student's exam.(IGNORE) (<code>JavaScript</code>)</li>
-          <li><a href="https://github.com/Algorift169/blink"><b>blink</b></a> - A terminal for linux. (<code>C++</code>)</li>
         </ul>
       </td>
     </tr>
