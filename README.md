@@ -22,11 +22,15 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p>Building open-source software and linux utilities.</p>
+        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/Galio"><b>Galio</b></a></p>
+        <p><i>Building an OS just as a hobby</i></p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
+          <li><a href="https://github.com/Algorift169/Galio"><b>Galio</b></a> - Building an OS just as a hobby (<code>C</code>)</li>
+          <li><a href="https://github.com/Algorift169/drift"><b>drift</b></a> - A scripting language to make programming easier. (<code>C</code>)</li>
+          <li><a href="https://github.com/Algorift169/BGS-2"><b>BGS-2</b></a> - No description provided. (<code>JavaScript</code>)</li>
         </ul>
       </td>
     </tr>
