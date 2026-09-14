@@ -22,15 +22,15 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/Galio"><b>Galio</b></a></p>
-        <p><i>Building an OS just as a hobby</i></p>
+        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/code-vision"><b>code-vision</b></a></p>
+        <p><i>A code/algorithm visualizer.</i></p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
+          <li><a href="https://github.com/Algorift169/code-vision"><b>code-vision</b></a> - A code/algorithm visualizer. (<code>Code</code>)</li>
           <li><a href="https://github.com/Algorift169/Galio"><b>Galio</b></a> - Building an OS just as a hobby (<code>C</code>)</li>
           <li><a href="https://github.com/Algorift169/CSE342"><b>CSE342</b></a> - Intake-55/4 ; id : 20255103147 (<code>Java</code>)</li>
-          <li><a href="https://github.com/Algorift169/drift"><b>drift</b></a> - A scripting language to make programming easier. (<code>C</code>)</li>
         </ul>
       </td>
     </tr>
