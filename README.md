@@ -107,7 +107,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Algorift169&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Algorift169&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true&border_radius=10" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Algorift169&layout=compact&theme=radical&langs_count=8&border_radius=10" alt="Top Languages" />
