@@ -76,7 +76,7 @@
 #### 🛠️ Languages & Core Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,qt,bash,linux&theme=dark" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,java,qt,bash,linux&theme=dark" alt="Languages & Frameworks" />
   </a>
 </p>
 
