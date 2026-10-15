@@ -22,15 +22,11 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/Bash-Scripting"><b>Bash-Scripting</b></a></p>
-        <p><i>Learning bash scripting from scratch</i></p>
+        <p>Building open-source software and linux utilities.</p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
-          <li><a href="https://github.com/Algorift169/Bash-Scripting"><b>Bash-Scripting</b></a> - Learning bash scripting from scratch (<code>Code</code>)</li>
-          <li><a href="https://github.com/Algorift169/code-vision"><b>code-vision</b></a> - A code/algorithm visualizer. (<code>Python</code>)</li>
-          <li><a href="https://github.com/Algorift169/Galio"><b>Galio</b></a> - Building an OS just as a hobby (<code>C</code>)</li>
         </ul>
       </td>
     </tr>
