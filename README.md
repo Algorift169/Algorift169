@@ -22,15 +22,11 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/ISEN-APP"><b>ISEN-APP</b></a></p>
-        <p><i>The Desktop/Mobile/Apple applications made over ISEN AI.</i></p>
+        <p>Building open-source software and linux utilities.</p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
-          <li><a href="https://github.com/Algorift169/ISEN-APP"><b>ISEN-APP</b></a> - The Desktop/Mobile/Apple applications made over ISEN AI. (<code>Java</code>)</li>
-          <li><a href="https://github.com/Algorift169/blink"><b>blink</b></a> - A terminal for linux. (<code>C++</code>)</li>
-          <li><a href="https://github.com/Algorift169/CSE342"><b>CSE342</b></a> - Intake-55/4 ; id : 20255103147 (<code>Java</code>)</li>
         </ul>
       </td>
     </tr>
