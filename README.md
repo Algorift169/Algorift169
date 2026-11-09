@@ -22,14 +22,14 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">🔨 Currently Working On</h4>
-        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/MeshDrop"><b>MeshDrop</b></a></p>
-        <p><i>An Offline Communicating System</i></p>
+        <p><b>Active Repository:</b> <a href="https://github.com/Algorift169/code-vision"><b>code-vision</b></a></p>
+        <p><i>A code/algorithm visualizer.</i></p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">🚀 Recent Projects</h4>
         <ul>
-          <li><a href="https://github.com/Algorift169/MeshDrop"><b>MeshDrop</b></a> - An Offline Communicating System (<code>Java</code>)</li>
           <li><a href="https://github.com/Algorift169/code-vision"><b>code-vision</b></a> - A code/algorithm visualizer. (<code>Python</code>)</li>
+          <li><a href="https://github.com/Algorift169/MeshDrop"><b>MeshDrop</b></a> - An Offline Communicating System (<code>Java</code>)</li>
           <li><a href="https://github.com/Algorift169/ISEN-APP"><b>ISEN-APP</b></a> - The Desktop/Mobile/Apple applications made over ISEN AI. (<code>Java</code>)</li>
         </ul>
       </td>
